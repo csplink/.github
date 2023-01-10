@@ -1,0 +1,13 @@
+name: Feature request
+description: Describes a functional requirement
+labels: ["enhancement"]
+title: "[Feature]: "
+
+body:
+  - type: textarea
+    id: feature-request
+    attributes:
+      label: Desired function
+      description: Please describe the new features you need
+    validations:
+      required: true

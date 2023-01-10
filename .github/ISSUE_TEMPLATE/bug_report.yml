@@ -1,6 +1,6 @@
 name: Bug report
 description: File a bug report
-labels: ["bug", "evaluation required"]
+labels: ["bug | 错误，故障", "evaluation required | 需要评估"]
 body:
   - type: markdown
     attributes:

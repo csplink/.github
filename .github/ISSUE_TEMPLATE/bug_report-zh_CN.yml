@@ -1,6 +1,6 @@
 name: Bug汇报
 description: 汇报一个 BUG
-labels: ["bug", "evaluation required"]
+labels: ["bug | 错误，故障", "evaluation required | 需要评估"]
 title: "[Bug]: "
 body:
   - type: markdown

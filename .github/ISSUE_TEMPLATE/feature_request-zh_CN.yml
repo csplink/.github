@@ -1,6 +1,6 @@
 name: 功能需求
 description: 描述一个功能需求
-labels: ["enhancement"]
+labels: ["enhancement | 新功能需求"]
 title: "[Feature]: "
 
 body:

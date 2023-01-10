@@ -26,7 +26,16 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our package are you running?
-      placeholder: "Example: 4.5.0"
+      description: What version of our software are you running?
+      placeholder: "Example: 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: system
+    attributes:
+      label: system
+      description: Which system are you running?
+      placeholder: "Example: windows-10 x64"
     validations:
       required: true
